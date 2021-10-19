@@ -13,3 +13,6 @@
   3. Clone Repo
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesnt open you may need to open up a url gave by the terminal in a browser of your choice.
+
+## Sprint 1 Bug Documentation: 
+Currently experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel. All code in master is bug free
