@@ -27,4 +27,6 @@ Added four main files to the master branch:
   - 5-cs3000.ipynb
       - This page is our page for CS 3000. Purpose - Provide more information for students about CS 3000 course
 
-Currently experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for future use. All code in master branch is bug free
+Bug Report: Currently experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for future use. All code in master branch is bug free.
+
+Code Performance and Testing: Code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
