@@ -41,7 +41,9 @@ Added four main files to the master branch:
       - This page is our page for CS 3560. Purpose - Provide more information for students about CS 3560 course
   - 8-cs3610.ipynb
       - This page is our page for CS 3610. Purpose - Provide more information for students about CS 3610 course
+      
 Also - completed a UI cleanup of all previous files.
+
 Bug Report: Still currently experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for future use. All code in master branch (and all branches) is bug free.
 
 Code Performance and Testing: Code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
