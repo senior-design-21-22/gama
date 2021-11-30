@@ -47,3 +47,24 @@ Also - completed a UI cleanup of all previous files.
 Bug Report: Still currently experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for future use. All code in master branch (and all branches) is bug free.
 
 Code Performance and Testing: Code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
+
+## Sprint 3 Code Documentation: 
+Added six main files to the master branch:
+  - 9-cs4000.ipynb
+      - This page is our page for CS 4000. Purpose - Provide more information for students about CS 4000 course
+  - 10-cs4040.ipynb
+      - This page is our page for CS 4040. Purpose - Provide more information for students about CS 4040 course
+  - 11-cs4100.ipynb
+      - This page is our page for CS 4100. Purpose - Provide more information for students about CS 4100 course
+  - 12-cs4420.ipynb
+      - This page is our page for CS 4420. Purpose - Provide more information for students about CS 4420 course
+  - 13-cs4560and61.ipynb
+      - This page is our page for CS 4560 and CS 4561. Purpose - Provide more information for students about CS 4560 and CS 4561 courses
+  - 27-ee3713.ipynb
+      - This page is our page for EE 3713. Purpose - Provide more information for students about EE 3713 course
+      
+Also - completed a UI cleanup of all previous files with some suggestions made by our client. Successfully connected xeus cling C++ kernel and Rust kernel to Windows users.
+
+Bug Report: Experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for MAC USERS ONLY. All code in master branch (and all branches) is bug free.
+
+Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
