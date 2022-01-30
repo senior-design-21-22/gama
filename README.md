@@ -68,3 +68,10 @@ Also - completed a UI cleanup of all previous files with some suggestions made b
 Bug Report: Experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for MAC USERS ONLY. All code in master branch (and all branches) is bug free.
 
 Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
+## Sprint 4 Code Documentation:
+    Researched into deployment
+    Looking into binder, was unable to deploy due to git repo being private
+    https://mybinder.org
+
+    Was able to have an instace of deploy using Heroku and viola but had error when trying to reach the site. Unsure of issue at the moment
+    https://devcenter.heroku.com/articles/getting-started-with-python
