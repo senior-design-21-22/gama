@@ -69,15 +69,25 @@ Bug Report: Experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel 
 
 Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
 ## Sprint 4 Code Documentation: 
-Added three main files to the master branch:
+- Now have completed all required CS / EE courses in the CS curriculum.
+- Added three main files to the master branch:
   - ee1024.ipynb
-      - This page is our page for EE 1024. Purpose - Provide more information for students about EE 1024 course
+        - This page is our page for EE 1024. Purpose - Provide more information for students about EE 1024 course. 
   - ee3613.ipynb
-      - This page is our page for EE 3613. Purpose - Provide more information for students about EE 3613 course
+        - This page is our page for EE 3613. Purpose - Provide more information for students about EE 3613 course. This course was not part of this sprint. Extra!!
   - ee3954.ipynb
-      - This page is our page for EE 3954. Purpose - Provide more information for students about EE 3954 course
+        - This page is our page for EE 3954. Purpose - Provide more information for students about EE 3954 course. 
+- Met with Professor Abukamail. Made changes based off of his suggestions to CS 2400 and CS 4560-61 courses.
+- Met with Professor Goble. Incorporated his suggestions in creating EE 1024 and EE 3954 courses. 
+- Met with Dr. Ostermann. Made changes based off of his suggestions to CS 4000 and CS 4420 courses.
+- Met with Alexander Bagnall. Made changes based off of his suggestions to CS 3200 and CS 4100 courses.
 - Researched and prepared for deployment
     - Looked into binder, was unable to deploy due to git repo being private https://mybinder.org
     - Was able to have an instace of deploy using Heroku and viola but had error when trying to reach the site. Unsure of issue at the moment.              
       https://devcenter.heroku.com/articles/getting-started-with-python
     - All 4 of us downloaded and configured Docker to prepare for future deployment
+- Also, completed a UI cleanup of all previous files with some suggestions made by our client. Renamed files. 
+
+Bug Report: Experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for MAC USERS ONLY. All code in master branch (and all branches) is bug free.
+
+Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
