@@ -6,6 +6,11 @@
 * Quality Assurance - Aaron Begy
 * Documentation Manager - Alex Heffner
 
+## Deployment with Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama.git/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/senior-design-21-22/gama.git/master
+
 ## Installation Instructions
   1. Install Pip for install of jupyter-lab
   2. Install jupyter-lab
