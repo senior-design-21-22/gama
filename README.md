@@ -7,9 +7,9 @@
 * Documentation Manager - Alex Heffner
 
 ## Deployment with Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama/master)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/senior-design-21-22/gama.git/master
+ :target: https://mybinder.org/v2/gh/senior-design-21-22/gama/master
 
 ## Installation Instructions
   1. Install Pip for install of jupyter-lab
