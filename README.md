@@ -1,21 +1,21 @@
-# Software Design & Develop I
+# Software Design and Develop I & II
 ## Team GAMA - Matthew Lang, Alex Heffner, Gavin Dassatti, Aaron Begy
-## Roles
+## Roles:
 * Team Leader - Matthew Lang
 * Release Manager - Gavin Dassatti
 * Quality Assurance - Aaron Begy
 * Documentation Manager - Alex Heffner
 
-## Deployment with Binder
-Click the link below to launch our project! <br />
+## To Deploy:
+Click the link below to launch our project on your web browser! <br />
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama/master)
 
-## Installation Instructions
-  1. Install Pip for install of jupyter-lab
-  2. Install jupyter-lab
+## To Install and Run Locally: 
+  1. Install Pip for installation of jupyter-lab
+  2. Install jupyter-lab command
       - Use ```pip install jupyterlab``` on command line to install
       - Link to orignal website: https://jupyter.org/install
-  3. Clone Repo
+  3. Git clone this repository
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesn't open, you may need to open up a url gave by the terminal in a browser of your choice.
 
@@ -87,11 +87,33 @@ Code Performance and Testing: All code runs perfectly. Successfully tested on Wi
 - Met with Alexander Bagnall. Made changes based off of his suggestions to CS 3200 and CS 4100 courses.
 - Researched and prepared for deployment
     - Looked into binder, was unable to deploy due to git repo being private https://mybinder.org
-    - Was able to have an instace of deploy using Heroku and viola but had error when trying to reach the site. Unsure of issue at the moment.              
+    - Was able to have an instance of deploy using Heroku and viola but had error when trying to reach the site. Unsure of issue at the moment.              
       https://devcenter.heroku.com/articles/getting-started-with-python
     - All 4 of us downloaded and configured Docker to prepare for future deployment
 - Also, completed a UI cleanup of all previous files with some suggestions made by our client. Renamed files. 
 
 Bug Report: Experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for MAC USERS ONLY. All code in master branch (and all branches) is bug free.
+
+Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
+## Sprint 5 Code Documentation: 
+- Added five main files to the master branch:
+  - cs4150.ipynb
+        - This page is our page for CS 4150 - Data Science. Purpose - Provide more information for students about CS 4150 course. 
+  - cs4250.ipynb
+        - This page is our page for CS 4250 - Graphics. Purpose - Provide more information for students about CS 4250 course. 
+  - cs4620.ipynb
+        - This page is our page for CS 4620 - Databases. Purpose - Provide more information for students about CS 4620 course.
+  - cs4800.ipynb
+        - This page is our page for CS 4800 - Artificial Intelligence. Purpose - Provide more information for students about CS 4800 course. 
+  - ee4683.ipynb
+        - This page is our page for EE 4683 - Computer Architecture. Purpose - Provide more information for students about EE 4683 course. 
+- Successfully deployed our project with Binder
+    - Made GitHub repository public with permission from our client, Dr. Mourning and Professor Abukamail
+    - Provided link to Binder deployment at the top of this README file.
+    - Automatically opens our JupyterLab project in a new tab on your web browser
+    - Thoroughly tested on macOS, Windows, and Linux machines with no bugs
+- Completed a UI cleanup of all previous files with some suggestions made by our client.
+
+Bug Report: All code in master branch (and all branches) is bug free.
 
 Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
