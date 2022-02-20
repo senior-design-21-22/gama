@@ -1,4 +1,4 @@
-# Software Design & Develop I
+# Software Design and Develop I & II
 ## Team GAMA - Matthew Lang, Alex Heffner, Gavin Dassatti, Aaron Begy
 ## Roles
 * Team Leader - Matthew Lang
@@ -6,16 +6,16 @@
 * Quality Assurance - Aaron Begy
 * Documentation Manager - Alex Heffner
 
-## Deployment with Binder
-Click the link below to launch our project! <br />
+## To Deploy:
+Click the link below to launch our project on your web browser! <br />
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama/master)
 
-## Installation Instructions
-  1. Install Pip for install of jupyter-lab
-  2. Install jupyter-lab
+## To Install and Run Locally: 
+  1. Install Pip for installation of jupyter-lab
+  2. Install jupyter-lab command
       - Use ```pip install jupyterlab``` on command line to install
       - Link to orignal website: https://jupyter.org/install
-  3. Clone Repo
+  3. Git clone this repository
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesn't open, you may need to open up a url gave by the terminal in a browser of your choice.
 
@@ -87,7 +87,7 @@ Code Performance and Testing: All code runs perfectly. Successfully tested on Wi
 - Met with Alexander Bagnall. Made changes based off of his suggestions to CS 3200 and CS 4100 courses.
 - Researched and prepared for deployment
     - Looked into binder, was unable to deploy due to git repo being private https://mybinder.org
-    - Was able to have an instace of deploy using Heroku and viola but had error when trying to reach the site. Unsure of issue at the moment.              
+    - Was able to have an instance of deploy using Heroku and viola but had error when trying to reach the site. Unsure of issue at the moment.              
       https://devcenter.heroku.com/articles/getting-started-with-python
     - All 4 of us downloaded and configured Docker to prepare for future deployment
 - Also, completed a UI cleanup of all previous files with some suggestions made by our client. Renamed files. 
@@ -95,3 +95,5 @@ Code Performance and Testing: All code runs perfectly. Successfully tested on Wi
 Bug Report: Experiencing issues connecting Jupyter Lab to Xeus-Cling C++ Kernel for MAC USERS ONLY. All code in master branch (and all branches) is bug free.
 
 Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
+## Sprint 5 Code Documentation: 
+
