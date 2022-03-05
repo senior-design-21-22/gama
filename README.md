@@ -10,7 +10,7 @@
 Click the link below to launch our project on your web browser! <br />
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama/master)
 
-## To Install and Run Locally: 
+## To Install and Run Locally For Developers: 
   1. Install Pip for installation of jupyter-lab
   2. Install jupyter-lab command
       - Use ```pip install jupyterlab``` on command line to install
@@ -18,6 +18,32 @@ Click the link below to launch our project on your web browser! <br />
   3. Git clone this repository
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesn't open, you may need to open up a url gave by the terminal in a browser of your choice.
+
+## To Install C++ Kernals Localy for Developers:
+Note: At time of making the Xeus-Cling kernal does not support MacOS.
+
+Steps to Install:
+  1. Install Miniconda, current version can be found at
+    https://docs.conda.io/en/latest/miniconda.html
+  2. create enviorment by executing the command ```conda create -n cling```
+  3. Activate the enviorment by executing the command ```conda active cling```
+  4. Now install Xeus cling by executing the command ```install xeus-cling jupyterlab -c conda-forge```
+
+Xeus-Cling Github: https://github.com/jupyter-xeus/xeus-cling\
+Helpful Video: https://www.youtube.com/watch?v=VdkfdBm_6W4
+
+## To Install Rust Kernals Localy for Developers:
+  1. Install Rust: https://www.rust-lang.org/tools/install\
+    you can do this by executing the command:\
+     ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
+  2. Install EVCXR REPL by executing: ```cargo install evcxr_repl```
+  3. Create enviorment by executing: ```conda create --name evcxr```
+  4. Activate enviorment by executing: ```conda activate evcxr```
+  5. Install conda kernals by executing: ```conda install -y -c conda-forge nb_conda_kernels```
+  6. Install evcxr_jupyter by executing: ```cargo install evcxr_jupyter```
+  7. Install evcxr_jupyter by executing: ```evcxr_jupyter --install```
+
+Helpful Link: https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/
 
 ## Sprint 1 Code Documentation: 
 Configured repository and Jupyter-Lab set up.
