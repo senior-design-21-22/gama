@@ -10,7 +10,7 @@
 Click the link below to launch our project on your web browser! <br />
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama/master)
 
-## To Install and Run Locally: 
+## To Install and Run Locally For Developers: 
   1. Install Pip for installation of jupyter-lab
   2. Install jupyter-lab command
       - Use ```pip install jupyterlab``` on command line to install
@@ -19,7 +19,7 @@ Click the link below to launch our project on your web browser! <br />
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesn't open, you may need to open up a url gave by the terminal in a browser of your choice.
 
-## To Install C++ Kernals:
+## To Install C++ Kernals Localy for Developers:
 Note: At time of making the Xeus-Cling kernal does not support MacOS.
 
 Steps to Install:
@@ -32,7 +32,7 @@ Steps to Install:
 Xeus-Cling Github: https://github.com/jupyter-xeus/xeus-cling\
 Helpful Video: https://www.youtube.com/watch?v=VdkfdBm_6W4
 
-## To Install Rust Kernals:
+## To Install Rust Kernals Localy for Developers:
   1. Install Rust: https://www.rust-lang.org/tools/install\
     you can do this by executing the command:\
      ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
