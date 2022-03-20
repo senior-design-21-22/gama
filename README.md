@@ -143,3 +143,22 @@ Code Performance and Testing: All code runs perfectly. Successfully tested on Wi
 Bug Report: All code in master branch (and all branches) is bug free.
 
 Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines.
+## Sprint 6 Code Documentation: 
+- Added five main files to the master branch:
+  - cs1400.ipynb
+        - This page is our page for CS 1400 - Fundamentals of Computing. Purpose - Provide more information for students about CS 1400 course. 
+  - cs4170.ipynb
+        - This page is our page for CS 4170 - Data Mining. Purpose - Provide more information for students about CS 4170 course. 
+  - cs4350.ipynb
+        - This page is our page for CS 4350 - Game Engine Design. Purpose - Provide more information for students about CS 4350 course.
+  - ee4673.ipynb
+        - This page is our page for EE 4673 - Embedded Systems. Purpose - Provide more information for students about EE 4673 course. 
+  - cs4750.ipynb
+        - This page is our page for CS 4750 - Internet Engineering. Purpose - Provide more information for students about CS 4750 course. 
+- Converted all CS 2401 examples to C++
+- Converted all CS 3610 examples to C++
+- Converted all CS 3200 examples to a functional language (Scheme)
+- Created documentation for future developers on this project
+- Successfully configured the two kernels, Scheme and Java. Both of these kernels also work with Binder.
+- Bug Report: All code in master branch (and all branches) is bug free.
+- Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines. Tested on different web browsers.

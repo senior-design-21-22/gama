@@ -1,6 +1,9 @@
-name: xeus-cling
+names: 
+  - xeus-cling
+  - java_env
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - xeus-cling=0.13.0
   - xtensor=0.23.0
@@ -10,3 +13,11 @@ dependencies:
   - numpy
   - vpython
   - pandas
+  - metakernel
+  - scijava-jupyter-kernel
+  - pip:
+    - calysto_scheme
+    - metakernel
+    - numpy
+    - calysto
+    - yasi
