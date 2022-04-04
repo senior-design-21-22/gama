@@ -22,3 +22,5 @@ dependencies:
     - calysto
     - yasi
     - mlxtend
+    - vpython
+    - jupyterlab-vpython
