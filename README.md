@@ -162,3 +162,16 @@ Code Performance and Testing: All code runs perfectly. Successfully tested on Wi
 - Successfully configured the two kernels, Scheme and Java. Both of these kernels also work with Binder.
 - Bug Report: All code in master branch (and all branches) is bug free.
 - Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines. Tested on different web browsers.
+## Sprint 7 Code Documentation: 
+- Added two main files to the master branch:
+  - cs2300.ipynb
+        - This page is our page for CS 2300 - Computer Programming in Java. Purpose - Provide more information for students about CS 2300 course. 
+  - cs4060.ipynb
+        - This page is our page for CS 4060 - Computation Theory. Purpose - Provide more information for students about CS 4060 course. 
+- Edited CS 4250 - Enabled Graphics functionality displaying various Python graphics to screen.
+- Edited CS 4620 - Added a database file with a coding example written in Python
+- UI Cleanup - Spelling and grammer changes
+- UI Cleanup - Added more visuals to select pages and created headers and footers on each page 
+- Security - made text cells uneditable to users
+- Bug Report: All code in master branch (and all branches) is bug free.
+- Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines. Also tested on different web browsers.
