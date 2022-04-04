@@ -1,4 +1,4 @@
-name: 
+names: 
   - xeus-cling
   - java_env
 channels:
@@ -12,7 +12,6 @@ dependencies:
   - matplotlib
   - numpy
   - vpython
-  - jupyterlab-vpython
   - pandas
   - metakernel
   - scijava-jupyter-kernel
