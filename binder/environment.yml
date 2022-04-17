@@ -18,6 +18,8 @@ dependencies:
   - scijava-jupyter-kernel
   - ipywidgets
   - beakerx
+  - scipy
+  - scikit-learn
   - pip:
     - calysto_scheme
     - metakernel
@@ -27,3 +29,5 @@ dependencies:
     - mlxtend
     - vpython
     - jupyterlab-vpython
+    - scipy
+    - scikit-learn
