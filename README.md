@@ -175,3 +175,20 @@ Code Performance and Testing: All code runs perfectly. Successfully tested on Wi
 - Security - made text cells uneditable to users
 - Bug Report: All code in master branch (and all branches) is bug free.
 - Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines. Also tested on different web browsers.
+## Sprint 8 Code Documentation: 
+- Added three main files to the master branch:
+  - math2301.ipynb
+        - This page is our page for MATH 2301 - Calculus I. Purpose - Provide more information for students about MATH 2301 course. 
+  - math2302.ipynb
+        - This page is our page for MATH 2302 - Calculus II. Purpose - Provide more information for students about MATH 2302 course. 
+  - math3200.ipynb
+        - This page is our page for MATH 3200 - Linear Algebra. Purpose - Provide more information for students about MATH 3200 course. 
+- Edited CS 4170 - Updated data mining examples with new examples relevent to course.
+- Edited Welcome Page - Now includes new bubble chart and made other updates.
+- Edited CS 2300 - All Java examples are now working with SciJava kernel.
+- UI Cleanup - Removed all title (png) pictures and replaced them with HTML text
+- UI Cleanup - Fixed grammatical errors and made more cells not editable / not deletable
+- Added compatibility of various other kernels
+- Various other finishing touches made to project
+- Bug Report: All code in master branch (and all branches) is bug free.
+- Code Performance and Testing: All code runs perfectly. Successfully tested on Windows, Linux, and macOS machines. Also tested on different web browsers.
