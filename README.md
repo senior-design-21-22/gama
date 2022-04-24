@@ -45,6 +45,12 @@ Helpful Video: https://www.youtube.com/watch?v=VdkfdBm_6W4
 
 Helpful Link: https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/
 
+## Credits
+- Credit to Ohio University
+- Credit to the Russ College of Engineering
+- Credit to the School of Electrical Engineering and Computer Science
+- Credit to the faculty and instructors within Ohio University's Computer Science program
+
 ## Sprint 1 Code Documentation: 
 Configured repository and Jupyter-Lab set up.
 Added four main files to the master branch:
