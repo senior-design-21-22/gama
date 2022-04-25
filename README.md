@@ -19,7 +19,7 @@ Click the link below to launch our project on your web browser! <br />
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesn't open, you may need to open up a url gave by the terminal in a browser of your choice.
 
-## To Install C++ Kernals Localy for Developers:
+## To Install C++ Kernals Locally for Developers:
 Note: At time of making the Xeus-Cling kernal does not support MacOS.
 
 Steps to Install:
@@ -32,7 +32,7 @@ Steps to Install:
 Xeus-Cling Github: https://github.com/jupyter-xeus/xeus-cling\
 Helpful Video: https://www.youtube.com/watch?v=VdkfdBm_6W4
 
-## To Install Rust Kernals Localy for Developers:
+## To Install Rust Kernals Locally for Developers:
   1. Install Rust: https://www.rust-lang.org/tools/install\
     you can do this by executing the command:\
      ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
@@ -45,6 +45,18 @@ Helpful Video: https://www.youtube.com/watch?v=VdkfdBm_6W4
 
 Helpful Link: https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/
 
+
+## To Install Scheme Locally for Developers:
+Execute the following commands:
+   1. ```pip3 install --upgrade calysto-scheme --user```
+   2. ```python3 -m calysto_scheme install --user```
+   
+   Link to Scheme repo: https://github.com/Calysto/calysto_scheme
+
+## Sci-Java Kernel Notes:
+Due to the reitrement of the kernel, we were unable to download and test java code locally.
+
+link to Sci-Java Github: https://github.com/scijava/scijava-jupyter-kernel
 ## Credits
 - Credit to Ohio University
 - Credit to the Russ College of Engineering
