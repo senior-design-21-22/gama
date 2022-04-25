@@ -19,8 +19,8 @@ Click the link below to launch our project on your web browser! <br />
   4. Run jupyter by typing ```jupyter-lab``` in the terminal while in the directory of the repo
   5. If jupyter notebook doesn't open, you may need to open up a url gave by the terminal in a browser of your choice.
 
-## To Install C++ Kernals Locally for Developers:
-Note: At time of making the Xeus-Cling kernal does not support MacOS.
+## To Install C++ Kernels Locally for Developers:
+Note: At time of making the Xeus-Cling kernel does not support MacOS.
 
 Steps to Install:
   1. Install Miniconda, current version can be found at
@@ -32,14 +32,14 @@ Steps to Install:
 Xeus-Cling Github: https://github.com/jupyter-xeus/xeus-cling\
 Helpful Video: https://www.youtube.com/watch?v=VdkfdBm_6W4
 
-## To Install Rust Kernals Locally for Developers:
+## To Install Rust Kernels Locally for Developers:
   1. Install Rust: https://www.rust-lang.org/tools/install\
     you can do this by executing the command:\
      ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
   2. Install EVCXR REPL by executing: ```cargo install evcxr_repl```
   3. Create enviorment by executing: ```conda create --name evcxr```
   4. Activate enviorment by executing: ```conda activate evcxr```
-  5. Install conda kernals by executing: ```conda install -y -c conda-forge nb_conda_kernels```
+  5. Install conda kernels by executing: ```conda install -y -c conda-forge nb_conda_kernels```
   6. Install evcxr_jupyter by executing: ```cargo install evcxr_jupyter```
   7. Install evcxr_jupyter by executing: ```evcxr_jupyter --install```
 
@@ -54,7 +54,7 @@ Execute the following commands:
    Link to Scheme repo: https://github.com/Calysto/calysto_scheme
 
 ## Sci-Java Kernel Notes:
-Due to the reitrement of the kernel, we were unable to download and test java code locally.
+Due to the retirement of the kernel, we were unable to download and test java code locally.
 
 link to Sci-Java Github: https://github.com/scijava/scijava-jupyter-kernel
 ## Credits
